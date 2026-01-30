@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import '../../styleSheets/boton.css'
 type BotonProps = {
   texto: string;
